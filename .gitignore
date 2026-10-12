@@ -1,0 +1,5 @@
+*.pdf
+*.svg
+*.png
+!assets/*.png
+.DS_Store
