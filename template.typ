@@ -199,3 +199,5 @@
 #let sp = math.op("sp")
 #let St = math.op("St")
 #let un = math.op("un")
+#let rss = math.op("rss")
+#let supp = math.op("supp")
